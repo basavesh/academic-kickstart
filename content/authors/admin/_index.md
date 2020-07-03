@@ -25,6 +25,7 @@ interests:
 - System Security
 - Reliable Computing
 - IoT-CPS
+- Program Repair
 
 education:
   courses:
