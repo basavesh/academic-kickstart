@@ -18,14 +18,14 @@ organizations:
   url: "https://cs.purdue.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Operating Systems
-- System Security
-- Reliable Computing
-- IoT-CPS
-- Program Repair
+- Operating Systems.
+- System Security.
+- Reliable Computing.
+- IoT-CPS.
+- Applications of formal methods.
 
 education:
   courses:
