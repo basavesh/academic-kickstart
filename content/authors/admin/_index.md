@@ -18,14 +18,12 @@ organizations:
   url: "https://cs.purdue.edu"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include operating systems, systems security and reliable computing.
 
 interests:
 - Operating Systems.
-- System Security.
+- Systems Security.
 - Reliable Computing.
-- IoT-CPS.
-- Applications of formal methods.
 
 education:
   courses:
@@ -57,6 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/basavesh
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/basavesh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
