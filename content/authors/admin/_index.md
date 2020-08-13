@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: Graduate Student in System Security
+  - course: M.Sc in Computer Science
     institution: Purdue University
-    # year: 2012
+    year: 2020
  # - course: MEng in Artificial Intelligence
  #   institution: Massachusetts Institute of Technology
  #   year: 2009
@@ -48,7 +48,7 @@ social:
   # mailto: 'basavesh.shivakumar@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/basavesh_BaSh
+  link: https://twitter.com/basavesh88
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=W0m3YA0AAAAJ&hl=en
@@ -73,5 +73,5 @@ email: "basavesh.shivakumar@gmail.com"
 # - Researchers
 # - Visitors
 ---
-Basavesh Shivakumar is a graduate student at Purdue University and a member of pursec.
+Basavesh Ammanaghatta Shivakumar is a graduate student at Purdue University. His research interests include Operating Systems, System Security and applications of formal methods in security.
 
