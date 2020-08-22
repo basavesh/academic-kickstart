@@ -73,5 +73,6 @@ email: "basavesh.shivakumar@gmail.com"
 # - Researchers
 # - Visitors
 ---
-Basavesh Ammanaghatta Shivakumar is a graduate student at Purdue University. His research interests include Operating Systems, System Security and applications of formal methods in security.
+# Biography
 
+Basavesh Ammanaghatta Shivakumar is a graduate student at Purdue University (USA) and received his Bachelor's in Computer Engineering from National Institute of Technology Karnataka, Surathkal (India). He is currently working under the supervision of Professor [Z. Berkay Celik](https://beerkay.github.io).  His research interests include Operating Systems, System Security and applications of formal methods in security.
