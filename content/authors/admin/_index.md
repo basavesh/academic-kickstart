@@ -15,7 +15,7 @@ role: Doctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: Max Planck Institute for Security and Privacy
-  url: "https://mpi-sp.org"
+  url: "https://www.mpi-sp.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include operating systems, systems security and reliable computing.
