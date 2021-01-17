@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Purdue University
-  url: "https://cs.purdue.edu"
+- name: Max Planck Institute for Security and Privacy
+  url: "https://mpi-sp.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include operating systems, systems security and reliable computing.
@@ -73,6 +73,5 @@ email: "basavesh.shivakumar@gmail.com"
 # - Researchers
 # - Visitors
 ---
-# Biography
 
-Basavesh Ammanaghatta Shivakumar is an incoming Doctoral Student at [MPI-SP](https://www.mpi-sp.org). Currently a graduate student at Purdue University (USA) and received his Bachelor's in Computer Engineering from National Institute of Technology Karnataka, Surathkal (India). He is currently working under the supervision of Professor [Z. Berkay Celik](https://beerkay.github.io).  His research interests include Operating Systems, System Security and applications of formal methods in security.
+Basavesh Ammanaghatta Shivakumar is a Doctoral Student at [MPI-SP](https://www.mpi-sp.org) under the supervision of [Gilles Barthe](https://gbarthe.github.io) and [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). He obtained his Master's degree at Purdue University (USA) under the guidance of [Berkay Celik](https://beerkay.github.io) and received his Bachelor's in Computer Engineering from National Institute of Technology Karnataka, Surathkal (India).
